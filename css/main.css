@@ -248,8 +248,10 @@ footer p {
     font-size: 15px;
     font-family: 'Pacifico', cursive;
     text-align: center;
-    margin:0 auto;
+    /* margin:0 auto; */
     background-color: rgb(236, 195, 15);
+
+    width: 100%;
 }
 
 .ubicacion-informacion p {
@@ -653,7 +655,6 @@ footer p {
 .contenido-ubicacion {
     background-image: url(../public/atencion-cliente-fondo.jpg);
     background-size: contain;
-    background-repeat: space;
 
     display: grid;
     grid-template-areas: 
