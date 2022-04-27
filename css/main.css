@@ -270,7 +270,7 @@ footer p {
 /* inicio estilo productos */
 
 .producto {
-    background-color: #f8db68;
+    background-color:#ffb6af;
     
 }
 
@@ -612,6 +612,7 @@ footer p {
 .contenido-ubicacion {
     background-image: url(../public/atencion-cliente-fondo.jpg);
     background-size: contain;
+    background-repeat: space;
 
 
     display: grid;
@@ -670,7 +671,7 @@ footer p {
 /* inicio seccion productos */
 
 .producto {
-    background-color: #f8db68;
+    background-color: #ffb6af;
     
 }
 
@@ -1102,7 +1103,7 @@ footer p {
 /* inicio seccion productos */
 
 .producto {
-    background-color: #f8db68;
+    background-color: #ffb6af;
     
 }
 
@@ -1517,7 +1518,7 @@ footer p {
 /* inicio seccion productos */
 
 .producto {
-    background-color: #f8db68;
+    background-color: #ffb6af;
     
 }
 
